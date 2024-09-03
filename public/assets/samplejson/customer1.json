@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Vedant Narwade",
+	"email": "V@test.com",
+	"phone": "123456789",
+	"city": "Pune",
+	"state": "Maharastra",
+	"country": "India",
+	"organization": "Company 1",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Nothing"
+}

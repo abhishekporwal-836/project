@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "ABCD",
+	"email": "abcd@test.com",
+	"phone": "12131445235",
+	"city": "B",
+	"state": "Delhi",
+	"country": "India",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}
