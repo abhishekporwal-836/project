@@ -1,16 +1,16 @@
 [{
 	"id": 1,
-	"name": "Vedant Narwade",
-	"email": "jsmith@test.com",
+	"name": "Abhishek Porwal",
+	"email": "ap@test.com",
 	"phone": "123456789"
 }, {
 	"id": 2,
-	"name": "ABCD",
-	"email": "abcd@test.com",
+	"name": "Vedant",
+	"email": "ved@test.com",
 	"phone": "12131445235"
 }, {
 	"id": 3,
-	"name": "Tyrion",
-	"email": "tyrion@test.com",
+	"name": "Maitri",
+	"email": "maitri@test.com",
 	"phone": "123412345"
 }]
